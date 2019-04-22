@@ -7,8 +7,8 @@ Installation of the app is via automatic updates or the app can be directly down
 
 ## Bugs/Issues
 Whilst the app should automatically notify of any errors or crashes, this is unfortunatly not always the case.
-If you are experiencing any problems please take a look at the [Issues]() page to see if others are experiencing the same prolem, and if not raise an issue yourself.
+If you are experiencing any problems please take a look at the [Issues](/issues) page to see if others are experiencing the same prolem, and if not raise an issue yourself.
 I will endevour to rectify any problems as wuickly as possible.
 
 ## Feature Requests
-If you have an additional functions/features you feel that should be included in future releases of the software, either request it via raising an [issue]() or contact me personally via email [smurf0969-github@bfam.co.uk](mailto:smurf0969-github@bfam.co.uk)
+If you have an additional functions/features you feel that should be included in future releases of the software, either request it via raising an [issue](/issues) or contact me personally via email [smurf0969-github@bfam.co.uk](mailto:smurf0969-github@bfam.co.uk)
