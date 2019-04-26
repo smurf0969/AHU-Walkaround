@@ -1,4 +1,4 @@
-# <img width="50px" height="50px" src="logo_small.png" alt="Logo"/> AHU-Walkaround ![Build status](https://build.appcenter.ms/v0.1/apps/e685da99-3861-40df-ac88-20c52000ae39/branches/master/badge)
+# <img width="50px" height="50px" src="logo_small.png" alt="Logo"/> AHU-Walkaround 
 Android application for performing regular quick checks on AHU ventilation plants/units and producing a pdf report for managers to act on and action remedial works.  
 This is a work in progress.
 
